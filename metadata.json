@@ -1,0 +1,6 @@
+{
+  "name": "ScreenMonkey - Screenshot to Tampermonkey Generator",
+  "description": "Upload webpage screenshots, highlight elements or describe UI modifications, and instantly generate clean, robust Tampermonkey userscripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
